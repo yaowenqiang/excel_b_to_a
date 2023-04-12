@@ -10,5 +10,8 @@
 > =c6*()7+1)
 
 ## Functions
-
+> sum
+> min
+> max
+> count
 
