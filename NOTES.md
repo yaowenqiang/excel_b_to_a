@@ -15,3 +15,4 @@
 > max
 > count
 
+> alt + = to autosum
