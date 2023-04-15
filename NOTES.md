@@ -18,3 +18,6 @@
 > alt + = to autosum
 
 > 双击"格式刷"可以一直刷，直到按下ESC
+
+> 插入 -> SmartArt
+> 插入 -> 表格
